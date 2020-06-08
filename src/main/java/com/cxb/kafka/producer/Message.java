@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.kafka.producer;
+package com.cxb.kafka.producer;
 
 import lombok.Data;
 

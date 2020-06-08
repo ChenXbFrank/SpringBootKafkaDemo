@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.kafka.consumer;
+package com.cxb.kafka.consumer;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.springframework.kafka.annotation.KafkaListener;

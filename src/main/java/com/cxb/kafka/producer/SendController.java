@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.kafka.producer;
+package com.cxb.kafka.producer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

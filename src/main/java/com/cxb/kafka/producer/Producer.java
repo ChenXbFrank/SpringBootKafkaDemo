@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.kafka.producer;
+package com.cxb.kafka.producer;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -9,11 +9,6 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 import java.util.UUID;
 
-/**
- * @Author: Xiaour
- * @Description:
- * @Date: 2018/5/22 15:07
- */
 @Component
 public class Producer {
 
